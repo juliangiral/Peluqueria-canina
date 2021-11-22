@@ -1,0 +1,3 @@
+Nombre de la bade de datos: peluqueria
+Usuario: admin
+Contraseña: 12345
